@@ -46,4 +46,4 @@ Edgar Herrera, Madeline Iwami, Eli Seligman, and Joey Suen, with instructor Prof
 **My role (Joey):** built the interactive front end (Folium map with color-coded markers and HTML/CSS popups) and contributed to USAJOBS API data collection.
 
 ## Report
-Full write-up: [`doc/STA141B_Final_Report.pdf`](docs/STA141B_Final_Report.pdf)
+Full write-up: [`STA141B_Final_Project.pdf`](STA141B_Final_Project.pdf)
