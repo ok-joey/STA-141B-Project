@@ -1,5 +1,3 @@
-<img width="866" height="668" alt="Screenshot 2026-10-03 132059" src="https://github.com/user-attachments/assets/4bfb621b-3831-43ab-9d4f-00379d75dc02" />
-<img width="866" height="668" alt="Screenshot 2026-10-03 132059" src="https://github.com/user-attachments/assets/9c016ff3-8000-431c-8f72-4938af982697" />
 # Federal Job Market Analysis & Search Tool
 
 An interactive analysis of ~8,000 federal job postings from [USAJOBS](https://developer.usajobs.gov/), built for STA 141B (UC Davis, Fall 2025).
