@@ -1,3 +1,5 @@
+<img width="866" height="668" alt="Screenshot 2026-10-03 132059" src="https://github.com/user-attachments/assets/4bfb621b-3831-43ab-9d4f-00379d75dc02" />
+<img width="866" height="668" alt="Screenshot 2026-10-03 132059" src="https://github.com/user-attachments/assets/9c016ff3-8000-431c-8f72-4938af982697" />
 # Federal Job Market Analysis & Search Tool
 
 An interactive analysis of ~8,000 federal job postings from [USAJOBS](https://developer.usajobs.gov/), built for STA 141B (UC Davis, Fall 2025).
@@ -12,6 +14,8 @@ An interactive analysis of ~8,000 federal job postings from [USAJOBS](https://de
 - **Cost-of-living-adjusted salaries:** postings are matched to Metropolitan Statistical Areas and merged with Regional Price Parity (RPP) data to produce a "real salary."
 - **Interactive maps:** scatter maps of job counts and education requirements, plus a final Folium map with color-coded markers (by required education level) and click-through popups showing position title, education level, and real salary.
 - **Job search tool:** filters postings by education level, salary, and distance from a chosen city, and sorts by highest real salary or nearest distance.
+<img width="866" height="668" alt="Screenshot 2026-10-03 132059" src="https://github.com/user-attachments/assets/e8ef7484-74cd-4df1-9224-fc9d165daa3b" />
+
 
 ## Key Findings
 - Federal postings are concentrated in the eastern half of the U.S. and around the Washington, D.C. area, with fewer in states like Nevada, Montana, and Idaho.
